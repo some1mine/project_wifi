@@ -34,4 +34,7 @@ WIFI 정보 가져오기 프로젝트
 ![박재우_ERD](https://github.com/some1mine/project_wifi/assets/71738723/9723934a-d680-4f15-81a1-f734788932e9)
 
 시연 영상
+
 ![박재우_WIFI정보 구하기_마스터](https://github.com/some1mine/project_wifi/assets/71738723/c47772e1-312c-4462-8b78-408c4efc5266)
+![ezgif com-optimize](https://github.com/some1mine/project_wifi/assets/71738723/b86b93a4-df85-45b8-9d65-bd0658468686)
+
